@@ -51,7 +51,7 @@ ORDER BY
 LIMIT 10;
 ```
 
-![Top Paying Skills](assets\Top_Paying_Skills.png)
+![Top Paying Skills](assets\top_paying_skills.png)
 *Bar graph visualizing the average salary for the top skills; ChatGPT generated this grapgh from my SQL query results*
 
 ## What I Learned
